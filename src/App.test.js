@@ -13,6 +13,6 @@ import App from './App';
  
 test('renders Hello World text', () => {
   render(<App />);
-  const helloWorldElement = screen.getByText(/Hello World/i);
+  const helloWorldElement = screen.getByText(/Welcome to my React page/i);
   expect(helloWorldElement).toBeInTheDocument();
 });
