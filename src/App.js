@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h2>Welcome to my React Page</h2>
+      <h2>Welcome to Janvi Page</h2>
     </div>
   );
 }
